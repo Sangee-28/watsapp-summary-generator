@@ -1,17 +1,17 @@
 import base64
 import os
 from urllib.parse import quote as urlquote
-from whatstk import df_from_txt_whatsapp
+# from whatstk import df_from_txt_whatsapp
 from flask import Flask, send_from_directory
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
-import templates as templateUtils
+# import templates as templateUtils
 import ai as openaiUtils
 import pandas as pd 
 
-UPLOAD_DIRECTORY = "/Users/loan/Desktop/watsapp-summary-geneartive-ai/files"
+UPLOAD_DIRECTORY = "files"
 
 
 if not os.path.exists(UPLOAD_DIRECTORY):
