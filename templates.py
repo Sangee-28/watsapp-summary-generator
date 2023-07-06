@@ -1,0 +1,1 @@
+chat_summary = """Write a summary for  the following conversation including time and dates among different people  {}.Do not print end to end encrypted message in the summary """

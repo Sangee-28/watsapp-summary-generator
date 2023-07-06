@@ -1,0 +1,18 @@
+c[19/06/23, 10:51:47 PM] Test : ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[19/06/23, 10:51:47 PM] Test : ‎You created group “Test ”
+[20/06/23, 8:02:27 PM] 😍😍: Hey Sangeetha
+[20/06/23, 8:02:34 PM] Sangeetha: Hello
+[20/06/23, 8:03:08 PM] 😍😍: I just had a meeting with one of client
+[20/06/23, 8:03:35 PM] 😍😍: They had some feedback regarding our product especially on how it handles billing
+[20/06/23, 8:03:48 PM] 😍😍: I want to set some time with you to discuss the same
+[20/06/23, 8:03:56 PM] 😍😍: When are you available?
+[20/06/23, 8:04:26 PM] Sangeetha: Ok I am available tomorrow after 2:00 pm
+[20/06/23, 8:04:56 PM] 😍😍: My slot is not available at that time
+[20/06/23, 8:05:07 PM] 😍😍: Do you have any other alternate slots?
+[20/06/23, 8:05:13 PM] Sangeetha: How about tom mrng then at 10:00 am
+[20/06/23, 8:05:48 PM] 😍😍: Works for me. Let me invite Greg from the CSM team as well.
+[20/06/23, 8:06:23 PM] Sangeetha: Yes sure, do we have invite any others?
+[20/06/23, 8:07:03 PM] 😍😍: I think having the developers who worked on the billing feature will also be good
+[20/06/23, 8:07:54 PM] Sangeetha: That’s good, how about Stan, the product manager ?
+[20/06/23, 8:08:26 PM] 😍😍: Works for me. See you tomorrow.
+[20/06/23, 8:08:37 PM] Sangeetha: Yes thank you
